@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "508109045528",
+    "firebase_url": "https://staffapplication-7d968-default-rtdb.firebaseio.com",
+    "project_id": "staffapplication-7d968",
+    "storage_bucket": "staffapplication-7d968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508109045528:android:513719436f2ea1c938286d",
+        "android_client_info": {
+          "package_name": "com.example.staffapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtMomkgI2l6yTQZegz42rlExZPDP5Dfu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508109045528:android:9cfad2500182fa6c38286d",
+        "android_client_info": {
+          "package_name": "com.example.staffapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtMomkgI2l6yTQZegz42rlExZPDP5Dfu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
